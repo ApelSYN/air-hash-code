@@ -1,0 +1,6 @@
+node_modules
+*.gz
+*.log
+/.project
+/npm-debug.log
+.idea/
